@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541009824 source:e:\data d\data pb\tugas\11. mencari faktor persekutuan terbesar dari 2 bilangan\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
